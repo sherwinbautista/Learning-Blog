@@ -1,2 +1,2 @@
 # README
-# This is my first repo.  I decided to create this repo as my first attempt to learn Github. My prior experience has been strictly local, specifcally only using software through GIT, but never engaging the community.  I am currently using Coursera to learn GitHub.  
+This is my first repo.  I decided to create this repo as my first attempt to learn Github. My prior experience has been strictly local, specifcally only using software through GIT, but never engaging the community.  I am currently using Coursera to learn GitHub.  
